@@ -1,0 +1,27 @@
+body {
+height: 100vh;
+margin: 0;
+padding: 0;
+}
+header {
+background-color: rgb(49, 69, 128);
+}
+.headerlogo {
+margin-top: 0;
+
+}
+.container-1 {
+    background-color: rgb(49, 69, 128);
+}
+.container-2 {
+    background-color: rgb(120, 120, 237);
+}
+.quotes {
+    background-color: rgb(203, 244, 230);
+}
+.cta {
+    background-color: rgb(236, 202, 139);
+}
+footer{
+    background-color: rgb(49, 69, 128);
+}
